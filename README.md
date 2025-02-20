@@ -2,5 +2,4 @@ In our project, "Airfare Dynamics: Leveraging AI to Predict Airline Fares and An
 
 Our AI-driven analysis revealed critical insights into passenger behavior: 52.96% of travelers are price-sensitive, 83.16% prefer early bookings, and medium-haul routes are the most popular (51.88%). These findings highlight the potential of AI to optimize pricing strategies, improve customer satisfaction, and enhance operational efficiency for airlines. Future work includes expanding the dataset and exploring real-time AI prediction systems to further revolutionize the airline industry. This project was a collaborative effort, with each team member contributing equally to its success, showcasing the transformative power of AI in solving real-world challenges.
 
-Dataset Link: https://catalog.data.gov/dataset/consumer-airfare-report-table-1a-all-u-s-airport-pair-markets
-Note: Change dataset name to "Consumer_Airfare_Report__Table_1a_-_All_U.S._Airport_Pair_Markets (1).csv" before using it in ipynb
+
